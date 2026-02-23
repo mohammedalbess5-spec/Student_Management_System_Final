@@ -46,7 +46,7 @@ void User_Input(){
             scanf("%d", &grade);
 
             if (grade < 0 || grade > 100) {
-                print("Invalid grade! Please enter a grade between 0 and 100.\n");;
+                print("Invalid grade! Please enter a grade between 0 and 100.\n");
             }
 
         } 
