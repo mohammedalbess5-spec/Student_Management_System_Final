@@ -30,9 +30,7 @@ void User_Input(){
 
         while (getchar() != '\n'); 
         }
-        if (studentsNum <= 0){
-            print("Invalid number! Please enter a positive number.\n");
-        } 
+     
 
     int studentsGrade[studentsNum];
     int i = 0;
